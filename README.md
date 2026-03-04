@@ -26,5 +26,4 @@ I am a passionate developer focused on creating **responsive**, **user-friendly*
 ---
 
 ### How to reach me:
-- **LinkedIn:** [https://www.linkedin.com/in/diana-kosmyna-developer/]
 - **Telegram:** @SherryBlood
