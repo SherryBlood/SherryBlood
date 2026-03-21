@@ -1,6 +1,6 @@
 ## Hi there, I'm Diana!
 
-### Junior Fullstack Developer
+### Fullstack Developer
 
 I am a passionate developer focused on creating **responsive**, **user-friendly** applications. I enjoy bridging the gap between clean frontend design and functional backend logic, whether it's for the **web** or **desktop**.
 
